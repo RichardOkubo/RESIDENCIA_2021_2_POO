@@ -1,0 +1,14 @@
+*************** TRANSFERÊNCIA RECEBIDA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 111.111.111-11
+Agência : 001
+Conta: 214323845
+********** DADOS DO DESTINATÓRIO ***********
+CPF: 222.222.222-22
+Agência: 002
+Conta: 555465869
+***********************************************
+Valor: R$100.0
+Operação realizada em: 19/10/2021 01:52:16
+*************** FIM DA TRANSFERÊNCIA ***************

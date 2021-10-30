@@ -1,0 +1,39 @@
+*************** SAQUE ***************
+CPF: 111.111.111-11
+Agência: 001
+Conta: 214323845
+Valor: R$3000.0
+Operação realizada em: 19/10/2021 01:40:16
+*************** FIM DO SAQUE ***************
+
+*************** SAQUE ***************
+CPF: 111.111.111-11
+Agência: 001
+Conta: 214323845
+Valor: R$200.0
+Operação realizada em: 19/10/2021 01:50:38
+*************** FIM DO SAQUE ***************
+
+*************** DEPÓSITO ***************
+CPF: 111.111.111-11
+Agência: 001
+Conta: 214323845
+Valor: R$300.0
+Operação realizada em: 19/10/2021 01:50:56
+*************** FIM DO DEPÓSITO ***************
+
+*************** TRANSFERÊNCIA REALIZADA ***************
+
+*********** DADOS DO REMETENTE **********
+CPF: 111.111.111-11
+Agência: 001
+Conta: 214323845
+********** DADOS DO DESTINATÁRIO ***********
+CPF: 222.222.222-22
+Agência: 002
+Conta: 555465869
+***********************************************
+Valor: R$100.0
+Operação realizada em: 19/10/2021 01:52:16
+*************** FIM DA TRANSFERÊNCIA ***************
+
